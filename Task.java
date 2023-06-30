@@ -9,7 +9,7 @@ public class Task {
         laptops.add(new Laptop("Lenovo", 14.0, 16, 512, "белый"));
         laptops.add(new Laptop("Dell", 13.3, 8, 256, "белый"));
         laptops.add(new Laptop("Asus", 15.6, 8, 512, "черный"));
-        laptops.add(new Laptop("Acer", 14.0, 32, 512, "черный"));
+        laptops.add(new Laptop("Acer", 14.0, 16, 1024, "белый"));
         laptops.add(new Laptop("MSI", 15.6, 32, 1024, "черный"));
         laptops.add(new Laptop("Apple", 13.3, 8, 256, "белый"));
 
